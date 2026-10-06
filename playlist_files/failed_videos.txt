@@ -1,0 +1,25 @@
+imma_be failed. exception: [Errno 2] No such file or directory: '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/imma_be_animated.mp4' -> '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/playlist_files/imma_be.mp4'
+
+
+
+
+boom_boom_pow failed. exception: [Errno 2] No such file or directory: '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/boom_boom_pow_animated.mp4' -> '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/playlist_files/boom_boom_pow.mp4'
+
+
+
+
+the_time failed. exception: [Errno 2] No such file or directory: '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/the_time_animated.mp4' -> '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/playlist_files/the_time.mp4'
+
+
+
+
+just_cant_get_enough failed. exception: [Errno 2] No such file or directory: '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/just_cant_get_enough_animated.mp4' -> '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/playlist_files/just_cant_get_enough.mp4'
+
+
+
+
+i_gotta_feelin failed. exception: [Errno 2] No such file or directory: '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/i_gotta_feelin_animated.mp4' -> '/Users/alwaysanothersecret/Desktop/PythonProjects.nosync/HarmonicAnalysis/file_fourier_transform/playlist_files/i_gotta_feelin.mp4'
+
+
+
+
